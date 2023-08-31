@@ -11,6 +11,8 @@ Prof. Wm. Genereux
 Genessis Perez-Sorto
 =======
 Contributors: Annie Aeschliman
+=======
+Dylan Hoeffner
 
 
 Prof. Wm. Genereux
@@ -37,11 +39,7 @@ const duck = {
     animalName: "duck",
     animalSound: "quack!"
 }
-//Diego 
-const monkey = {
-    animalName: "Monkey",
-    animalSound: "ooga booga"
-}
+
 // Everyone add your animal object with its 
 // animalName & animalSound below your name:
 
@@ -53,8 +51,6 @@ const dog = {
     animalSound: "woof woof"
 }
 
-const animals = [duck, dog]
-=======
 //Annie
 const sheep = {
     animalName: "sheep",
@@ -68,22 +64,32 @@ const coyote = {
     animalSound: "howl"
 }
 
-
+//Gabriel
 const rabbit = {
     animalName: "rabbit",
     animalSound: "silence"
 }
 
-const animals = [duck, coyote, rabbit]
-=======
 //Zab
 
-const RedPanda = {
+const redPanda = {
     animalName: "Red Panda",
     animalSound: "Huff"
 }
 
-const animals = [duck, coyote, sheep, monkey, red panda]
+//Diego 
+const monkey = {
+    animalName: "Monkey",
+    animalSound: "ooga booga"
+}
+
+//Dylan
+const goose = {
+    animalName: "Goose",
+    animalSound: "HONK!"
+}
+
+const animals = [duck, dog, sheep, coyote, rabbit, redPanda, monkey, goose]
 
 
 
